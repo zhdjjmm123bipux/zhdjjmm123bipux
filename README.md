@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, I'm Oussama 👋
+
+<div align="center">
+  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/cover.png" alt="cover" />
+</div>
+
